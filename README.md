@@ -7,4 +7,8 @@
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 
+
+https://github.com/RamazanKun/Translate-ToolkitThunk/assets/129733537/bf6976fa-4673-4295-8577-03e36dd5b0f5
+
+
 ![](cevir.mp4)
